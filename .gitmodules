@@ -1,0 +1,3 @@
+[submodule "myliveproject"]
+	path = myliveproject
+	url = https://github.com/manishrajput-67/myliveproject
